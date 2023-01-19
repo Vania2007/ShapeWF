@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ShapeWF
 {
-    public class Rectangle:Shape
+    public class Rectangle: Shape
     {
         Graphics g;
         Brush Brush = Brushes.Red; 
